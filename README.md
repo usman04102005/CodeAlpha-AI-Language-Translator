@@ -19,3 +19,8 @@ A Flask-based AI language translator web app with text-to-speech support.
 ```bash
 pip install -r requirements.txt
 python app.py
+
+## Screenshots
+<img width="1918" height="1079" alt="Screenshot 2026-05-16 154754" src="https://github.com/user-attachments/assets/fefbbed3-59ff-44c9-bc41-def5df849190" />
+
+
